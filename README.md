@@ -1,2 +1,2 @@
-# Comercio-Exterior-H2
+# Comercio Exterior H2
 theme: jekyll-theme-cayman
